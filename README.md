@@ -3,6 +3,11 @@
 The architecture was inspired by [U-Net: Convolutional Networks for Biomedical Image Segmentation](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/).
 
 ---
+## ImJoy plugin
+
+Try the [Unet-Segmentation](https://imjoy.io/#/app?plugin=https://github.com/imjoy-team/unet/blob/master/Unet-Segmentation.imjoy.html).
+
+---
 
 ## Overview
 
